@@ -1,8 +1,8 @@
 abstract class ImageConstants {
-  static const String adidas = 'assets/images/adidas.png';
+  static const String airforce = 'assets/images/airforce.png';
   static const String dunk = 'assets/images/dunk.png';
   static const String jordan = 'assets/images/jordan.png';
   static const String logo = 'assets/images/logo.png';
-  static const String nmd = 'assets/images/nmd.png';
-  static const String yeezy = 'assets/images/yeezy.png';
+  static const String blueoff = 'assets/images/blueoff.png';
+  static const String redoff = 'assets/images/redoff.png';
 }
