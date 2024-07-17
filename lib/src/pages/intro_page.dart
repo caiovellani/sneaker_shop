@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../core/constants/image_constants.dart';
 import 'home_page.dart';
 
 class IntroPage extends StatelessWidget {
@@ -18,7 +19,7 @@ class IntroPage extends StatelessWidget {
               Padding(
                 padding: const EdgeInsets.all(24),
                 child: Image.asset(
-                  'assets/logo.png',
+                  ImageConstants.logo,
                   height: 240,
                 ),
               ),
